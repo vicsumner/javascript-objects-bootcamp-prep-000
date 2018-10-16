@@ -1,6 +1,6 @@
 var playlist = {
-    // artistName:"Alison",
-    // songTitle: "Slowdrive"
+     artistName:"Alison",
+     songTitle: "Slowdrive"
   };
       playlist['Slowdive'] = 'Alison'
       playlist['My Bloody Valentine'] = 'Sometimes'
