@@ -1,6 +1,7 @@
 var playlist = {
-    artistName:Alison
-    songTitle:};
-function updatePlaylist(playlist, artistName, songTitle){
+    artistName:"Alison",
+    songTitle: "Slowdrive"
+  };
+// function updatePlaylist(playlist, artistName, songTitle){
   
-}
+// }
